@@ -22,9 +22,7 @@ iOS 17 及以上系统（需要“删除闹钟”操作）。
 
 
 第二步：导入快捷指令
-点击下方链接将本快捷指令添加到您的设备：
-[https://www.icloud.com/shortcuts/3db6f14dd0914c5ba8fc641875ee3e55](https://www.icloud.com/shortcuts/bd2937fa3e9547dd91c572423233f11a)
-
+点击下方链接将本快捷指令添加到您的设备：https://www.icloud.com/shortcuts/506f51b611074ef289a55f9db6e1bc8a
 
 第三步：设置个人自动化（定时运行）
 打开「快捷指令」App → “自动化” →右上角➕号→特定时间
